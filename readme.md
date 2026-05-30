@@ -1,6 +1,9 @@
-Linux cheat sheet
-Command: pwd
-Purpose: Shows current directory
+# Linux and Git Cheat Sheet 
+ 
+## pwd
+Purpose: Shows current directory 
 
-Command: ls
-Purpose: Lists files/folders
+## ls 
+Purpose: Lists files/folder
+
+
