@@ -6,4 +6,5 @@ Purpose: Shows current directory
 ## ls 
 Purpose: Lists files/folder
 
-
+## cd
+Purpose: Change directory 
