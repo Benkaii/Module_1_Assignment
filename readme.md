@@ -29,3 +29,6 @@ Purpose: Display file contents
 
 ## clear
 Purpose: Clear terminal
+
+## git init
+Purpose: Initialize a Git repository
