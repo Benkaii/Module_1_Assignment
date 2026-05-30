@@ -41,3 +41,6 @@ Purpose: View commit history
 
 ## git branch
 Purpose: View branches
+
+## git diff
+Purpose: View changes between branches/files
