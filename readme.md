@@ -35,3 +35,6 @@ Purpose: Initialize a Git repository
 
 ## git status
 Purpose: Check respository status
+
+#git log
+Purpose: View commit history
