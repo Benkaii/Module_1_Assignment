@@ -13,4 +13,7 @@ Purpose: Change directory
 Purpose: Create folder
 
 ## touch
-Purpose: Create file  
+Purpose: Create file
+
+##cp
+Purpose: Copy file  
