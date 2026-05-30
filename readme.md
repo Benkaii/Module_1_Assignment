@@ -44,3 +44,6 @@ Purpose: View branches
 
 ## git diff
 Purpose: View changes between branches/files
+
+## git merge
+Purpose: Merge a branch into current branch
