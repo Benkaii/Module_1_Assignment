@@ -32,3 +32,6 @@ Purpose: Clear terminal
 
 ## git init
 Purpose: Initialize a Git repository
+
+## git status
+Purpose: Check respository status
