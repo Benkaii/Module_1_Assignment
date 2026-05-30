@@ -15,5 +15,5 @@ Purpose: Create folder
 ## touch
 Purpose: Create file
 
-##cp
-Purpose: Copy file  
+## cp
+Purpose: Copy file
