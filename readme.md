@@ -23,3 +23,6 @@ Purpose: Move/rename files
 
 ## rm
 Purpose: Delete files
+
+## cat
+Purpose: Display file contents
