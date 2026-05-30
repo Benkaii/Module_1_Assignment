@@ -38,3 +38,6 @@ Purpose: Check respository status
 
 ## git log
 Purpose: View commit history
+
+## git branch
+Purpose: View branches
