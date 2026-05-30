@@ -7,4 +7,7 @@ Purpose: Shows current directory
 Purpose: Lists files/folder
 
 ## cd
-Purpose: Change directory 
+Purpose: Change directory
+
+## mkdir
+Purpose: Create folder  
