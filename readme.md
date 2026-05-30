@@ -10,4 +10,7 @@ Purpose: Lists files/folder
 Purpose: Change directory
 
 ## mkdir
-Purpose: Create folder  
+Purpose: Create folder
+
+## touch
+Purpose: Create file  
