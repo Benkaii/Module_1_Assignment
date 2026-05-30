@@ -26,3 +26,6 @@ Purpose: Delete files
 
 ## cat
 Purpose: Display file contents
+
+## clear
+Purpose: Clear terminal
