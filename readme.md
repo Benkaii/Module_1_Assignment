@@ -17,3 +17,6 @@ Purpose: Create file
 
 ## cp
 Purpose: Copy file
+
+## mv
+Purpose: Move/rename files
