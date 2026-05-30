@@ -20,3 +20,6 @@ Purpose: Copy file
 
 ## mv
 Purpose: Move/rename files
+
+## rm
+Purpose: Delete files
